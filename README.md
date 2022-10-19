@@ -1,2 +1,2 @@
-# python-for-pentes
+# python-for-pentest
 Code from the course with additions
